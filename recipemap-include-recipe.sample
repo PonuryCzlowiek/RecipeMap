@@ -1,0 +1,9 @@
+{
+  "id": "2",
+  "type": "Main",
+  "name": "Fasolka po bretoñsku"
+  "description": "T³uste i syc¹ce danie",
+  "vegetarian": "false",
+  "freezable": "true",
+  "stand-alone": "true",
+}

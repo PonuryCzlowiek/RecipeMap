@@ -1,0 +1,8 @@
+{
+  "type": "Main",
+  "name": "Tomato soup"
+  "description": "Simple soup",
+  "vegetarian": "false",
+  "freezable": "false",
+  "stand-alone": "true",
+}

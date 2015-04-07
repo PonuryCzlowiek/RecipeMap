@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-03/schema",
+  "id": "http://jsonschema.net",
+  "required": "true",
+  "properties": {
+	"id": {
+	"type": "integer",
+	"required": true
+	},
+	"type": {
+	  "type": "string",
+	  "required": true
+	},
+	"name": {
+	  "type": "string",
+	  "required": true
+	},
+	"description": {
+	  "type": "string",
+	  "required": false
+	},
+	"vegetarian": {
+	  "type": "boolean",
+	  "required": false
+	},
+	"freezable": {
+	  "type": "boolean",
+	  "required": false
+	},
+	"stand-alone": {
+	  "type": "boolean",
+	  "required": false
+	},
+	"photoUrl": {
+	  "type": "string",
+	  "required": false
+	},
+  }
+}
